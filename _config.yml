@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Courtney K. Allen # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Social demographer 
   <br><br>
-  Second description 
+  Short story writer
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-26401120 # your Google Analytics tracking ID here
