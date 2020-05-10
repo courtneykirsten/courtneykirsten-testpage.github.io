@@ -2,11 +2,10 @@ title: Courtney K. Allen # your name (or website title) here
 logo: "/images/Profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Social demographer 
-  <br><br>
   Short story writer
   <br><br>
   <a href="https://www.linkedin.com/in/courtney-allen/">Loot at  my LinkedIn </a> 
-  >br><br>
+  <br><br>
   <a href="https://github.com/courtneykirsten/courtneykirsten.github.io/blob/master/pdf/Allen_C_CV201_11.pdf">See my CV</a>
   
 theme: jekyll-theme-minimal
