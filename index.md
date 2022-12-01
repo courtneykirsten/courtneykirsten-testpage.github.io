@@ -1,5 +1,10 @@
-## Portfolio
+## Education
 
+I am a **current PhD student at the University of Washington** in Seattle and an affiliate student of the Max Planck School of Demographic Research in Rostock, Germany.
+
+I also have a **MSc in Demography** from the London School of Hygiene and Tropical Medicine and **BS in Public Health** from the University of Colorado Denver.
+
+Although my research background was previously focused on global health research, my current work is centered on the evolving healthcare access before and after the desegregation of American hosptials during the civil rights era. I use quantitative and demographic methods to understand how the social and political sphere affected healthcare access and health trajectories. 
 ---
 
 ### Category Name 1 
