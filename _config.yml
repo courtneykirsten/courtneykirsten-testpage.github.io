@@ -9,3 +9,9 @@ description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal 
+
+author:
+  employer         : "University of Washington"
+  uri              : courtneykirsten@github.io
+  email            : "ckallen@uw.edu" 
+  googlescholar    : "https://scholar.google.com/citations?user=aYf2JaEAAAAJ&hl=en"
