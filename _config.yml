@@ -1,12 +1,13 @@
 title: Courtney K. Allen # your name (or website title) here
-logo: "/images/Allen_headshot2.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
+description:
   PhD Student <br>
   Social demographer <br> 
   <br><br>
   <a href="https://www.linkedin.com/in/courtney-allen/">LinkedIn </a> 
   <br><br>
-  <a href="/pdf/Allen_CV_202212.pdf">See my CV</a>
+  <a href="/pdf/Allen_CV_202504.pdf">See my CV</a>
   
+show_downloads: true
 theme: jekyll-theme-minimal
-google_analytics: UA-26401120 # your Google Analytics tracking ID here
+google_analytics: 
