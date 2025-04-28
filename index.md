@@ -29,9 +29,13 @@ Mallick, Lindsay, Jennifer Yourkavitch, and **Courtney Allen**. [“Trends, dete
 ## Awards and Research Support
 
 2024	NIH T32 Data Science Training in Demography and Population Health Training Grant, $28,224
+
 2024	Center for Statistics and the Social Sciences (CSSS) Travel Award, $1000
+
 2023	Spring Research Fund Award, University of Washington, Sociology, $500
+
 2020 – 2021	Top Scholar Fellowship, University of Washington, $21,924
+
 
 
 ---
